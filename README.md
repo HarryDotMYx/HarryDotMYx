@@ -1,8 +1,24 @@
-### Hi there 👋
+### Hi there, I'm PG Mohd Azhan Fikri.👋
+### Product Designer from Malaysia 🇲🇾🇲🇾
+<center>
+![Alt text](https://media.giphy.com/media/GXFDStd2CP1ba/source.gif "Hugs!")
+
+
+[![HarryDotMYx github stats](https://github-readme-stats.vercel.app/api?username=HarryDotMYx)]
 
 <!--
 **HarryDotMYx/HarryDotMYx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
-[![HarryDotMYx's GitHub stats](https://github-readme-stats.vercel.app/api?username=harrydotmyx)]
+
+
+- 🔭 I’m currently working on ...
+- 🌱 I’m currently learning ...
+- 👯 I’m looking to collaborate on ...
+- 🤔 I’m looking for help with ...
+- 💬 Ask me about ...
+- 📫 How to reach me: ...
+- 😄 Pronouns: ...
+- ⚡ Fun fact: ...
+-->
 
