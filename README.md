@@ -5,7 +5,7 @@
 
 
 ![HarryDotMYx github stats](https://github-readme-stats.vercel.app/api?username=HarryDotMYx)
-
+![HarryDotMY github stats](https://github-readme-stats.vercel.app/api?username=HarryDotMY)
 <!--
 **HarryDotMYx/HarryDotMYx** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
