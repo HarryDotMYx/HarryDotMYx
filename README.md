@@ -1,7 +1,7 @@
 ### Hi there, I'm PG Mohd Azhan Fikri.👋
 ### Product Designer from Malaysia 🇲🇾🇲🇾
 
-![Alt text](https://media.giphy.com/media/GXFDStd2CP1ba/source.gif "Hugs!")
+
 
 
 [![HarryDotMYx github stats](https://github-readme-stats.vercel.app/api?username=HarryDotMYx)]
