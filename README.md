@@ -1,5 +1,5 @@
 ### Hi there, I'm PG Mohd Azhan Fikri.👋
-### Product Designer from Malaysia 🇲🇾🇲🇾
+###  from Malaysia 🇲🇾🇲🇾
 
 
 ## 1. GitHub Stats
