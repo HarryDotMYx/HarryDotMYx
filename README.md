@@ -3,9 +3,9 @@
 
 
 ## 1. GitHub Stats
-![HarryDotMYx github stats](https://github-readme-stats.vercel.app/api?username=HarryDotMYx)
+![HarryDotMYx github stats](https://github-readme-stats.vercel.app/api?username=HarryDotMYx&count_private=true)
 ## 2. Most Used Languages
-![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=harrydotmyx&theme=blue-green)
+![Your Repository's Stats](https://github-readme-stats.vercel.app/api/top-langs/?username=HarryDotMYx&theme=blue-green&count_private=true)
 ## 3. Random Joke Generator
 ![Jokes Card](https://readme-jokes.vercel.app/api)
 ## 4. Profile View Counter
