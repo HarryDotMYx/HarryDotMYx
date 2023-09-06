@@ -8,7 +8,7 @@ My area of focus lies within "Any Team", which I believe to be the quintessentia
 # How can i contact you?
 - Nah, Please do not contact me 🙃
 - i didn't know about everything 🫤
-- Yes, im useless guys ever. 😔
+- Yes, im useless guy ever. 😔
 - Please, Do not bullying me. Just hate me. Okay? 😖
 
 
