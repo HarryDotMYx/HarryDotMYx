@@ -1,5 +1,5 @@
 # About Me:
-Greetings!, I am PG MOHD AZHAN FIKRI,  Guy Malaysian who has no knowledge of Computer Science or any expertise in the IT World.<br>
+Greetings!, I am PG MOHD AZHAN FIKRI, A guy Malaysian who has no knowledge of Computer Science or any expertise in the IT World.<br>
 My area of focus lies within "Any Team", which I believe to be the quintessential discipline.
 
 # From?
