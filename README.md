@@ -1,10 +1,10 @@
 # About Me:
 
-Greetings, I am PG MOHD AZHAN FIKRI. As a Malaysian gentleman without a background in Computer Science or IT, I focus my strengths and interests in the field of "Any Team". I believe this discipline is fundamental and of utmost importance.
+Greetings, I am PG MOHD AZHAN FIKRI. As a Malaysian gentleman without a background in Computer Science or IT, I focus my strengths and interests in the field of "OSINT". I believe this discipline is fundamental and of utmost importance.
 
-In "Any Team", I strive to integrate values of collaboration, innovation, and excellence. My belief in the importance of team synergy and the development of each individual's potential forms the foundation of my every step and decision. With a solution-focused approach and a desire for continual learning, I am dedicated to maximizing positive impact in every project I engage in.
+In "Anyteam", I strive to integrate values of collaboration, innovation, and excellence. My belief in the importance of team synergy and the development of each individual's potential forms the foundation of my every step and decision. With a solution-focused approach and a desire for continual learning, I am dedicated to maximizing positive impact in every project I engage in.
 
-My goal is to bring fresh perspectives, make meaningful contributions, and be a catalyst for positive change within "Any Team". Together, we can achieve excellence and effective innovation.
+My goal is to bring fresh perspectives, make meaningful contributions, and be a catalyst for positive change within "Anyteam". Together, we can achieve excellence and effective innovation.
 
 # From?
  🇲🇾 !
