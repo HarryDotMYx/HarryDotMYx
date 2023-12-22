@@ -1,15 +1,23 @@
 # About Me:
-Greetings!, I am PG MOHD AZHAN FIKRI, A guy Malaysian who has no knowledge of Computer Science or any expertise in the IT World.<br>
-My area of focus lies within "Any Team", which I believe to be the quintessential discipline.
+
+Greetings, I am PG MOHD AZHAN FIKRI. As a Malaysian gentleman without a background in Computer Science or IT, I focus my strengths and interests in the field of "Any Team". I believe this discipline is fundamental and of utmost importance.
+
+In "Any Team", I strive to integrate values of collaboration, innovation, and excellence. My belief in the importance of team synergy and the development of each individual's potential forms the foundation of my every step and decision. With a solution-focused approach and a desire for continual learning, I am dedicated to maximizing positive impact in every project I engage in.
+
+My goal is to bring fresh perspectives, make meaningful contributions, and be a catalyst for positive change within "Any Team". Together, we can achieve excellence and effective innovation.
 
 # From?
  🇲🇾 !
 
 # How can i contact you?
-- Nah, Please do not contact me 🙃
-- i didn't know about everything 🫤
-- Yes, im useless guy ever. 😔
-- Please, Do not bullying me. Just hate me. Okay? 😖
+- "I appreciate your interest, but I prefer not to be contacted at this time. Thank you for understanding."
+- "As of now, my knowledge in this area is limited, but I am open to learning and growing professionally."
+- "While I may feel uncertain about my skills at times, I am committed to self-improvement and professional development."
+- "I value respectful and constructive interactions. While I may not meet everyone's expectations, I strive for continuous growth and understanding."
+
+
+
+
 
 
 
@@ -23,5 +31,4 @@ My area of focus lies within "Any Team", which I believe to be the quintessentia
 ![](https://github-readme-streak-stats.herokuapp.com/?user=HarryDotMYx&theme=dark&hide_border=true)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=HarryDotMYx&theme=dark&hide_border=false&include_all_commits=false&count_private=true&layout=compact)
 ---
-[![](https://visitcount.itsvg.in/api?id=HarryDotMYx&icon=0&color=0)](https://visitcount.itsvg.in)
 
