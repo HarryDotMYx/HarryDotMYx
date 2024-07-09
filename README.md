@@ -4,7 +4,7 @@ Hello, <br> I'm PG MOHD AZHAN FIKRI. While I may not have a background in Comput
 
 Within "Any team", I prioritize values such as collaboration, innovation, and excellence. I firmly believe in nurturing team synergy and fostering the growth of each member. With a proactive problem-solving approach and a commitment to continuous learning, I am devoted to maximizing positive outcomes in all our endeavors.
 
-My objective is to offer fresh perspectives, make meaningful contributions, and serve as a catalyst for positive transformation within "Anyteam". Together, I am confident we can achieve unparalleled excellence and drive impactful innovation.
+My objective is to offer fresh perspectives, make meaningful contributions, and serve as a catalyst for positive transformation within "Any team". Together, I am confident we can achieve unparalleled excellence and drive impactful innovation.
 
 # From?
  🇲🇾 !
