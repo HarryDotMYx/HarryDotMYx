@@ -1,21 +1,38 @@
 # About Me
 
-Hi, I'm **HarryDotMYx**, a passionate developer and tech enthusiast! 🚀
+Hi, I'm **PG Mohd Azhan Fikri**, a **passionate full-stack developer**, **cloud enthusiast**, and **tech innovator**! 🚀  
+With a deep interest in building cutting-edge solutions, I thrive on solving complex problems and continuously learning new technologies. Whether it's backend development, cloud infrastructure, or automation, I aim to create impactful and efficient systems. Let's build something amazing together! 💻✨
 
 ### 👨‍💻 What I Do:
-- Full-stack development
-- Backend systems and database management
-- Cloud services and server management (Ubuntu, CloudPanel)
-- Web-based application development (PHP, HTML, JavaScript, and more)
+- **Full-stack development:** Expertise in building dynamic and responsive web applications, utilizing technologies like PHP, JavaScript (ES6+), HTML5, CSS3, and frameworks such as Laravel and Bootstrap for both frontend and backend development.
+- **Backend systems and database management:** Proficient in designing and managing databases (MySQL, PostgreSQL), crafting efficient queries, stored procedures, and optimizing database performance for high-traffic environments.
+- **Cloud services and server management:** Skilled in deploying and managing applications in cloud environments such as AWS, Google Cloud, and DigitalOcean. Experience with virtualization, containerization (Docker), and managing Linux-based servers (Ubuntu, CentOS).
+- **DevOps and automation:** Implementing CI/CD pipelines using Jenkins, GitHub Actions, and GitLab CI for automated testing, deployment, and integration. Automating routine server tasks using Ansible and shell scripts.
+- **Network security and infrastructure:** Managing enterprise-grade network setups using Ubiquiti products and Pfsense+, configuring firewalls, VPNs (OpenVPN, WireGuard), and ensuring network security with best practices.
+- **API integration and development:** Creating and consuming RESTful APIs, integrating third-party services (e.g., payment gateways, cloud services) into applications to provide seamless functionality.
+- **Mobile app development:** Exploring mobile development technologies such as Flutter and React Native to build cross-platform mobile applications with rich user interfaces.
+- **System design and architecture:** Designing scalable and maintainable system architectures, with a focus on cloud-native patterns, microservices, and serverless computing for performance and resilience.
+
 
 ### 🔧 Tech Stack:
+
 - **Languages:** PHP, JavaScript, HTML, CSS, SQL, Python
 - **Frameworks/Libraries:** Bootstrap, jQuery, Laravel
 - **Databases:** MySQL, PostgreSQL
 - **Version Control:** Git, GitHub
-- **Cloud & DevOps:** Ubuntu, CloudPanel, Docker, AWS
-- **Networking & Security:** Ubiquiti (U6 Enterprise, Enterprise 48 PoE), Netgate 8200 Max (Pfsense+)
-- **Other Tools:** VS Code, phpMyAdmin, Apache, Nginx
+- **Cloud & DevOps:** 
+  - **Cloud Platforms:** AWS (EC2, S3, RDS), Google Cloud (Compute Engine, Cloud Storage), DigitalOcean, Linode
+  - **Containerization:** Docker, Docker Compose
+  - **Server Management:** Ubuntu, CentOS, CloudPanel, Nginx, Apache, cPanel
+  - **CI/CD Tools:** Jenkins, GitHub Actions, GitLab CI
+  - **Virtualization:** VMware, VirtualBox, Proxmox
+  - **Monitoring & Logging:** Prometheus, Grafana, ELK Stack (Elasticsearch, Logstash, Kibana), Zabbix
+  - **Backup & Recovery:** Rsync, AWS Backup, Rclone
+- **Networking & Security:** 
+  - **Infrastructure:** Ubiquiti (U6 Enterprise, Enterprise 48 PoE), Netgate 8200 Max (Pfsense+), OpenVPN, WireGuard
+  - **Firewall/Security:** Pfsense+, Fail2ban, IPsec, Let's Encrypt SSL
+- **Other Tools:** VS Code, phpMyAdmin, Docker, Kubernetes
+
 
 ### 📊 GitHub Stats:
 
@@ -26,18 +43,15 @@ Hi, I'm **HarryDotMYx**, a passionate developer and tech enthusiast! 🚀
 ### 🏆 GitHub Trophies:
 [![trophy](https://github-profile-trophy.vercel.app/?username=HarryDotMYx&theme=radical)](https://github.com/HarryDotMYx/github-profile-trophy)
 
-### 🔧 Current Projects:
-1. **Bulan ICT** – Organizing a tech-related event focused on ICT innovations.
-2. **KIH Internal System** – A document management system designed to streamline office administration.
-3. **Sistem Pinjaman Aset Sewaan ICT** – A system for managing ICT asset loans.
-4. **Meme Internet** – A platform to engage with internet culture through memes.
-5. **Health and Workout App Prototype** – Currently building a prototype related to health and fitness activities.
 
 ### 💡 Interests:
-- Open-source software
-- Network security and infrastructure (Ubiquiti, Pfsense+)
-- Automation and reducing manual processes in daily work
-- Exploring mobile app development
+- **Open-source software:** Actively involved in exploring and contributing to open-source projects, focusing on building tools that enhance productivity and system management.
+- **Network security and infrastructure:** Passionate about securing and optimizing network infrastructures using tools like Ubiquiti (U6 Enterprise, Enterprise 48 PoE), Netgate 8200 Max (Pfsense+), and employing techniques like VPN setups (OpenVPN, WireGuard), firewall configurations, and SSL management.
+- **Automation and reducing manual processes:** Enthusiastically working on automating server management tasks, CI/CD pipelines, and routine administrative tasks using tools like Jenkins, GitHub Actions, Ansible, and scripting.
+- **Exploring mobile app development:** Delving into mobile development frameworks such as Flutter, React Native, and Android Studio, and keen on integrating cloud services with mobile apps to create seamless and connected user experiences.
+- **Cloud-native architecture:** Interested in the design and deployment of cloud-native applications, leveraging Docker, Kubernetes, microservices, and serverless computing to create scalable and resilient infrastructures.
+- **Disaster recovery and business continuity:** Researching best practices for backup, recovery, and high-availability strategies, particularly in cloud and virtualized environments.
+
 
 ### 📫 How to contact me:
 
