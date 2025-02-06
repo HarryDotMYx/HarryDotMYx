@@ -114,10 +114,9 @@ With a deep interest in building cutting-edge solutions, I thrive on solving com
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harry@akierry.io)
 
 ### 📈 Contribution Graph
-![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=HarryDotMYx&theme=radical)
-
+[![Ashutosh's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=harrydotmyx&bg_color=ffcfe9&color=9e4c98&line=9e4c98&point=403d3d&area=true&hide_border=true)](https://github.com/ashutosh00710/github-readme-activity-graph)
 ### 🎵 Currently Listening To
-[![Apple Music](https://img.shields.io/badge/Apple_Music-FA243C?style=for-the-badge&logo=apple-music&logoColor=white)](https://music.apple.com/profile/YOUR_APPLE_MUSIC_ID)
+[![Apple Music](https://img.shields.io/badge/Apple_Music-FA243C?style=for-the-badge&logo=apple-music&logoColor=white)](https://music.apple.com/profile/PG.Azhan)
 
 ---
 <div align="center">
