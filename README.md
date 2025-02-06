@@ -1,26 +1,19 @@
-# Hi there, I'm Harry! 👋 
+# About Me
 
-<div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Software+Developer;Full+Stack+Engineer;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
-</div>
+Hi, I'm **Harry**, a **passionate full-stack developer**, **cloud enthusiast**, and **tech innovator**! 🚀  
+With a deep interest in building cutting-edge solutions, I thrive on solving complex problems and continuously learning new technologies. Whether it's backend development, cloud infrastructure, or automation, I aim to create impactful and efficient systems. Let's build something amazing together! 💻✨
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=HarryDotMYx&show_icons=true&theme=radical" alt="GitHub Stats" />
-</div>
+### 👨‍💻 What I Do:
+- **Full-stack development:** Expertise in building dynamic and responsive web applications, utilizing modern frameworks and technologies for both frontend and backend development.
+- **Backend systems and database management:** Proficient in designing and managing databases, crafting efficient queries, and optimizing database performance for high-traffic environments.
+- **Cloud services and server management:** Skilled in deploying and managing applications across multiple cloud platforms. Experience with virtualization, containerization, and managing Linux-based servers.
+- **DevOps and automation:** Implementing CI/CD pipelines for automated testing, deployment, and integration. Automating routine server tasks using modern DevOps tools.
+- **Network security and infrastructure:** Managing enterprise-grade network setups, configuring firewalls, VPNs, and ensuring network security with best practices.
+- **API integration and development:** Creating and consuming RESTful APIs, integrating third-party services into applications to provide seamless functionality.
+- **Mobile app development:** Building cross-platform mobile applications with rich user interfaces using modern frameworks.
+- **System design and architecture:** Designing scalable and maintainable system architectures, with a focus on cloud-native patterns, microservices, and serverless computing.
 
-<div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=HarryDotMYx&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
-</div>
-
-## 🚀 About Me
-- 🔭 Software Developer with a passion for creating innovative solutions
-- 🌱 Continuously learning and staying up-to-date with emerging technologies
-- 💡 Love tackling complex problems and turning ideas into reality
-- 🎯 Goal-oriented developer focused on delivering high-quality code
-- 🤝 Open to collaborating on interesting projects
-- 📚 Lifelong learner and technology enthusiast
-
-## 💻 Tech Stack
+### 🔧 Tech Stack
 
 <div align="center">
 
@@ -87,7 +80,19 @@
 
 </div>
 
-## 📊 GitHub Stats
+### 💡 Interests:
+- **Open-source software:** Actively involved in exploring and contributing to open-source projects, focusing on building tools that enhance productivity and system management.
+- **Network security and infrastructure:** Passionate about securing and optimizing network infrastructures using enterprise-grade tools and best practices.
+- **Automation and reducing manual processes:** Enthusiastically working on automating server management tasks, CI/CD pipelines, and routine administrative tasks.
+- **Exploring mobile app development:** Delving into mobile development frameworks and integrating cloud services with mobile apps.
+- **Cloud-native architecture:** Interested in the design and deployment of cloud-native applications using modern technologies.
+- **Disaster recovery and business continuity:** Researching best practices for backup, recovery, and high-availability strategies.
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HarryDotMYx&show_icons=true&theme=radical" alt="GitHub Stats" />
+</div>
 
 <div align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarryDotMYx&theme=radical" alt="GitHub Streak" />
@@ -97,16 +102,21 @@
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarryDotMYx&theme=radical&layout=compact" alt="Top Languages" />
 </div>
 
-## 🌐 Connect With Me
+### 🏆 GitHub Trophies
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=HarryDotMYx&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</div>
+
+### 🌐 Connect With Me
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harry-my/)
 [![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HarryDotMYx)
 [![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://harry.akierry.io)
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harry@akierry.io)
 
-## 📈 Contribution Graph
+### 📈 Contribution Graph
 ![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=HarryDotMYx&theme=radical)
 
-## 🎵 Currently Listening To
+### 🎵 Currently Listening To
 [![Apple Music](https://img.shields.io/badge/Apple_Music-FA243C?style=for-the-badge&logo=apple-music&logoColor=white)](https://music.apple.com/profile/YOUR_APPLE_MUSIC_ID)
 
 ---
