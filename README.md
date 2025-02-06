@@ -1,65 +1,72 @@
-# About Me
+# Hi there, I'm Harry! 👋 
 
-Hi, I'm **PG Mohd Azhan Fikri**, a **passionate full-stack developer**, **cloud enthusiast**, and **tech innovator**! 🚀  
-With a deep interest in building cutting-edge solutions, I thrive on solving complex problems and continuously learning new technologies. Whether it's backend development, cloud infrastructure, or automation, I aim to create impactful and efficient systems. Let's build something amazing together! 💻✨
+<div align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=F7F7F7&center=true&vCenter=true&width=435&lines=Software+Developer;Full+Stack+Engineer;Problem+Solver;Tech+Enthusiast" alt="Typing SVG" />
+</div>
 
-### 👨‍💻 What I Do:
-- **Full-stack development:** Expertise in building dynamic and responsive web applications, utilizing technologies like PHP, JavaScript (ES6+), HTML5, CSS3, and frameworks such as Laravel and Bootstrap for both frontend and backend development.
-- **Backend systems and database management:** Proficient in designing and managing databases (MySQL, PostgreSQL), crafting efficient queries, stored procedures, and optimizing database performance for high-traffic environments.
-- **Cloud services and server management:** Skilled in deploying and managing applications in cloud environments such as AWS, Google Cloud, and DigitalOcean. Experience with virtualization, containerization (Docker), and managing Linux-based servers (Ubuntu, CentOS).
-- **DevOps and automation:** Implementing CI/CD pipelines using Jenkins, GitHub Actions, and GitLab CI for automated testing, deployment, and integration. Automating routine server tasks using Ansible and shell scripts.
-- **Network security and infrastructure:** Managing enterprise-grade network setups using Ubiquiti products and Pfsense+, configuring firewalls, VPNs (OpenVPN, WireGuard), and ensuring network security with best practices.
-- **API integration and development:** Creating and consuming RESTful APIs, integrating third-party services (e.g., payment gateways, cloud services) into applications to provide seamless functionality.
-- **Mobile app development:** Exploring mobile development technologies such as Flutter and React Native to build cross-platform mobile applications with rich user interfaces.
-- **System design and architecture:** Designing scalable and maintainable system architectures, with a focus on cloud-native patterns, microservices, and serverless computing for performance and resilience.
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=HarryDotMYx&show_icons=true&theme=radical" alt="GitHub Stats" />
+</div>
 
+<div align="center">
+  <img src="https://github-profile-trophy.vercel.app/?username=HarryDotMYx&theme=radical&no-frame=false&no-bg=true&margin-w=4" alt="GitHub Trophies" />
+</div>
 
-### 🔧 Tech Stack:
+## 🚀 About Me
+- 🔭 Software Developer with a passion for creating innovative solutions
+- 🌱 Continuously learning and staying up-to-date with emerging technologies
+- 💡 Love tackling complex problems and turning ideas into reality
+- 🎯 Goal-oriented developer focused on delivering high-quality code
+- 🤝 Open to collaborating on interesting projects
+- 📚 Lifelong learner and technology enthusiast
 
-- **Languages:** PHP, JavaScript, HTML, CSS, SQL, Python
-- **Frameworks/Libraries:** Bootstrap, jQuery, Laravel
-- **Databases:** MySQL, PostgreSQL
-- **Version Control:** Git, GitHub
-- **Cloud & DevOps:** 
-  - **Cloud Platforms:** AWS (EC2, S3, RDS), Google Cloud (Compute Engine, Cloud Storage), DigitalOcean, Linode
-  - **Containerization:** Docker, Docker Compose
-  - **Server Management:** Ubuntu, CentOS, CloudPanel, Nginx, Apache, cPanel
-  - **CI/CD Tools:** Jenkins, GitHub Actions, GitLab CI
-  - **Virtualization:** VMware, VirtualBox, Proxmox
-  - **Monitoring & Logging:** Prometheus, Grafana, ELK Stack (Elasticsearch, Logstash, Kibana), Zabbix
-  - **Backup & Recovery:** Rsync, AWS Backup, Rclone
-- **Networking & Security:** 
-  - **Infrastructure:** Ubiquiti (U6 Enterprise, Enterprise 48 PoE), Netgate 8200 Max (Pfsense+), OpenVPN, WireGuard
-  - **Firewall/Security:** Pfsense+, Fail2ban, IPsec, Let's Encrypt SSL
-- **Other Tools:** VS Code, phpMyAdmin, Docker, Kubernetes
+## 💻 Tech Stack
+### Languages
+![JavaScript](https://img.shields.io/badge/-JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/-TypeScript-3178C6?style=for-the-badge&logo=typescript&logoColor=white)
+![Python](https://img.shields.io/badge/-Python-3776AB?style=for-the-badge&logo=python&logoColor=white)
+![HTML5](https://img.shields.io/badge/-HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/-CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)
 
+### Frameworks & Libraries
+![React](https://img.shields.io/badge/-React-61DAFB?style=for-the-badge&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/-Next.js-000000?style=for-the-badge&logo=next.js&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-339933?style=for-the-badge&logo=node.js&logoColor=white)
+![Express.js](https://img.shields.io/badge/-Express.js-000000?style=for-the-badge&logo=express&logoColor=white)
+![TailwindCSS](https://img.shields.io/badge/-TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white)
 
-### 📊 GitHub Stats:
+### Tools & Platforms
+![Git](https://img.shields.io/badge/-Git-F05032?style=for-the-badge&logo=git&logoColor=white)
+![VS Code](https://img.shields.io/badge/-VS%20Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
+![Docker](https://img.shields.io/badge/-Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white)
+![AWS](https://img.shields.io/badge/-AWS-232F3E?style=for-the-badge&logo=amazon-aws&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-47A248?style=for-the-badge&logo=mongodb&logoColor=white)
 
-![HarryDotMYx's GitHub Stats](https://github-readme-stats.vercel.app/api?username=HarryDotMYx&show_icons=true&theme=radical&hide=contribs,issues)  
-![HarryDotMYx's Streak](https://github-readme-streak-stats.herokuapp.com/?user=HarryDotMYx&theme=radical)  
-![HarryDotMYx's Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=HarryDotMYx&layout=compact&theme=radical)  
+## 📊 GitHub Stats
 
-### 🏆 GitHub Trophies:
-[![trophy](https://github-profile-trophy.vercel.app/?username=HarryDotMYx&theme=radical)](https://github.com/HarryDotMYx/github-profile-trophy)
+<div align="center">
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=HarryDotMYx&theme=radical" alt="GitHub Streak" />
+</div>
 
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=HarryDotMYx&theme=radical&layout=compact" alt="Top Languages" />
+</div>
 
-### 💡 Interests:
-- **Open-source software:** Actively involved in exploring and contributing to open-source projects, focusing on building tools that enhance productivity and system management.
-- **Network security and infrastructure:** Passionate about securing and optimizing network infrastructures using tools like Ubiquiti (U6 Enterprise, Enterprise 48 PoE), Netgate 8200 Max (Pfsense+), and employing techniques like VPN setups (OpenVPN, WireGuard), firewall configurations, and SSL management.
-- **Automation and reducing manual processes:** Enthusiastically working on automating server management tasks, CI/CD pipelines, and routine administrative tasks using tools like Jenkins, GitHub Actions, Ansible, and scripting.
-- **Exploring mobile app development:** Delving into mobile development frameworks such as Flutter, React Native, and Android Studio, and keen on integrating cloud services with mobile apps to create seamless and connected user experiences.
-- **Cloud-native architecture:** Interested in the design and deployment of cloud-native applications, leveraging Docker, Kubernetes, microservices, and serverless computing to create scalable and resilient infrastructures.
-- **Disaster recovery and business continuity:** Researching best practices for backup, recovery, and high-availability strategies, particularly in cloud and virtualized environments.
+## 🌐 Connect With Me
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/harry-my/)
+[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/HarryDotMYx)
+[![Portfolio](https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white)](https://harry.akierry.io)
+[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:harry@akierry.io)
 
+## 📈 Contribution Graph
+![Contribution Graph](https://activity-graph.herokuapp.com/graph?username=HarryDotMYx&theme=radical)
 
-### 📫 How to contact me:
+## 🎵 Currently Vibing To
+[![Spotify](https://novatorem-navy-ten.vercel.app/api/spotify)](https://open.spotify.com/user/HarryDotMYx)
 
-I appreciate your interest, but I prefer not to be contacted at this time. Thank you for understanding.
+---
+<div align="center">
+  <img src="https://komarev.com/ghpvc/?username=HarryDotMYx&color=blueviolet" alt="Profile Views" />
+</div>
 
-### 👨‍💼 About Me:
-As of now, my knowledge in certain areas is limited, but I am open to learning and growing professionally.  
-While I may feel uncertain about my skills at times, I am committed to self-improvement and professional development.  
-I value respectful and constructive interactions. While I may not meet everyone's expectations, I strive for continuous growth and understanding.
-
-Thanks for visiting my profile! 😄
+⭐️ From [HarryDotMYx](https://github.com/HarryDotMYx)
